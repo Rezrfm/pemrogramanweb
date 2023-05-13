@@ -10,6 +10,7 @@
     <?php
     echo "Halo Ges";
     print "<br> Sedang Belajar PHP";
+    echo "Yamaha semakin di depan";
     ?>
 </body>
 </html>
